@@ -4,32 +4,47 @@
 
 p {
   position: center;
-  color: #48d1cc;
+  color: Black;
   font-family: Shadows Into Light,cursive;
 
 }
 
 #design {
     position: center;
-    color: #48d1cc;
+    color: Black;
     font-family: Shadows Into Light,cursive;
   
   }
 
   .font {
     position: center;
-    color: #48d1cc;
+    color: Black;
     font-family: Shadows Into Light,cursive;
     margin: 0;
   }
 
+  /* .middle{
+    position: center;
+    color: white;
+    font-family: 'Open Sans Condensed', sans-serif;
+
+  } */
+
   h3 {
     margin: 0;
     position: center;
-    color: #48d1cc;
+    color: Black;
     font-family: 'Open Sans Condensed', sans-serif;
     }
 
     h1 {
       margin: 0;
     }
+
+   /* #back {
+    position: center;
+    background-color: #48d1cc;
+    color:white;
+    font-family: 'Open Sans Condensed', sans-serif;
+    margin: 40;
+    } */
